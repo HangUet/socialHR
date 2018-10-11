@@ -1,0 +1,491 @@
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\ApplicationInsights.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\socialHR.dll.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\socialHR.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\socialHR.pdb
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csc.exe
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csc.exe.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csc.rsp
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csi.exe
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csi.exe.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\csi.rsp
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.AppContext.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Console.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\vbc.exe
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\vbc.exe.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\vbc.rsp
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Antlr3.Runtime.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.Web.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Newtonsoft.Json.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Helpers.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Mvc.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Optimization.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Razor.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\WebGrease.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Helpers.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Mvc.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Optimization.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.Razor.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Newtonsoft.Json.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Antlr3.Runtime.pdb
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.AI.Web.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\obj\Debug\socialHR.csprojAssemblyReference.cache
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\obj\Debug\socialHR.csproj.CoreCompileInputs.cache
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\obj\Debug\socialHR.csproj.CopyComplete
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\obj\Debug\socialHR.dll
+C:\Users\ThuLe97\source\repos\socialHR\socialHR\obj\Debug\socialHR.pdb
+E:\InfoRe\socialhr\socialHR\bin\ApplicationInsights.config
+E:\InfoRe\socialhr\socialHR\bin\socialHR.dll.config
+E:\InfoRe\socialhr\socialHR\bin\socialHR.dll
+E:\InfoRe\socialhr\socialHR\bin\socialHR.pdb
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csc.exe
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csc.exe.config
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csc.rsp
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csi.exe
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csi.exe.config
+E:\InfoRe\socialhr\socialHR\bin\roslyn\csi.rsp
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.Managed.Core.targets
+E:\InfoRe\socialhr\socialHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.AppContext.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Collections.Immutable.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Console.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.IO.Compression.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.IO.FileSystem.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.IO.Pipes.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Reflection.Metadata.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.AccessControl.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Claims.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Security.Principal.Windows.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.ValueTuple.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Xml.XmlDocument.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Xml.XPath.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\InfoRe\socialhr\socialHR\bin\roslyn\vbc.exe
+E:\InfoRe\socialhr\socialHR\bin\roslyn\vbc.exe.config
+E:\InfoRe\socialhr\socialHR\bin\roslyn\vbc.rsp
+E:\InfoRe\socialhr\socialHR\bin\roslyn\VBCSCompiler.exe
+E:\InfoRe\socialhr\socialHR\bin\roslyn\VBCSCompiler.exe.config
+E:\InfoRe\socialhr\socialHR\bin\Antlr3.Runtime.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.Agent.Intercept.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.DependencyCollector.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.Web.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.WindowsServer.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.ApplicationInsights.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.Web.Infrastructure.dll
+E:\InfoRe\socialhr\socialHR\bin\Newtonsoft.Json.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Diagnostics.DiagnosticSource.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Helpers.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Mvc.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Optimization.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Razor.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.Deployment.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.Razor.dll
+E:\InfoRe\socialhr\socialHR\bin\WebGrease.dll
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Helpers.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Mvc.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Optimization.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.Razor.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.Deployment.xml
+E:\InfoRe\socialhr\socialHR\bin\System.Web.WebPages.Razor.xml
+E:\InfoRe\socialhr\socialHR\bin\Newtonsoft.Json.xml
+E:\InfoRe\socialhr\socialHR\bin\Antlr3.Runtime.pdb
+E:\InfoRe\socialhr\socialHR\bin\System.Diagnostics.DiagnosticSource.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.DependencyCollector.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.WindowsServer.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.Web.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\InfoRe\socialhr\socialHR\obj\Debug\socialHR.csproj.CoreCompileInputs.cache
+E:\InfoRe\socialhr\socialHR\obj\Debug\socialHR.csproj.CopyComplete
+E:\InfoRe\socialhr\socialHR\obj\Debug\socialHR.dll
+E:\InfoRe\socialhr\socialHR\obj\Debug\socialHR.pdb
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\InfoRe\socialhr\socialHR\bin\Microsoft.ApplicationInsights.xml
+E:\InfoRe\socialhr\socialHR\bin\Facebook.dll
+E:\InfoRe\socialhr\socialHR\bin\Facebook.xml
+E:\InfoRe\socialhr\socialHR\bin\Elasticsearch.Net.dll
+E:\InfoRe\socialhr\socialHR\bin\Nest.dll
+E:\InfoRe\socialhr\socialHR\bin\Elasticsearch.Net.xml
+E:\InfoRe\socialhr\socialHR\bin\Nest.xml
+E:\InfoRe\socialhr\socialHR\obj\Debug\socialHR.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\ApplicationInsights.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\socialHR.dll.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\socialHR.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\socialHR.pdb
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csi.exe
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Elasticsearch.Net.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Facebook.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Nest.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\WebGrease.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Elasticsearch.Net.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Facebook.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Nest.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\obj\Debug\socialHR.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\obj\Debug\socialHR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\obj\Debug\socialHR.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\obj\Debug\socialHR.dll
+C:\Users\User\Desktop\New folder (2)\socialhr\socialHR\obj\Debug\socialHR.pdb
+E:\CV\SocialCV\socialHR\bin\ApplicationInsights.config
+E:\CV\SocialCV\socialHR\bin\socialHR.dll.config
+E:\CV\SocialCV\socialHR\bin\socialHR.dll
+E:\CV\SocialCV\socialHR\bin\socialHR.pdb
+E:\CV\SocialCV\socialHR\bin\roslyn\csc.exe
+E:\CV\SocialCV\socialHR\bin\roslyn\csc.exe.config
+E:\CV\SocialCV\socialHR\bin\roslyn\csc.rsp
+E:\CV\SocialCV\socialHR\bin\roslyn\csi.exe
+E:\CV\SocialCV\socialHR\bin\roslyn\csi.exe.config
+E:\CV\SocialCV\socialHR\bin\roslyn\csi.rsp
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CV\SocialCV\socialHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CV\SocialCV\socialHR\bin\roslyn\System.AppContext.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Collections.Immutable.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Console.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.IO.Compression.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.IO.FileSystem.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.IO.Pipes.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Reflection.Metadata.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.AccessControl.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Claims.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.ValueTuple.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Xml.XPath.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CV\SocialCV\socialHR\bin\roslyn\vbc.exe
+E:\CV\SocialCV\socialHR\bin\roslyn\vbc.exe.config
+E:\CV\SocialCV\socialHR\bin\roslyn\vbc.rsp
+E:\CV\SocialCV\socialHR\bin\roslyn\VBCSCompiler.exe
+E:\CV\SocialCV\socialHR\bin\roslyn\VBCSCompiler.exe.config
+E:\CV\SocialCV\socialHR\bin\Antlr3.Runtime.dll
+E:\CV\SocialCV\socialHR\bin\Elasticsearch.Net.dll
+E:\CV\SocialCV\socialHR\bin\Facebook.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.DependencyCollector.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.Web.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.WindowsServer.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.ApplicationInsights.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CV\SocialCV\socialHR\bin\Microsoft.Web.Infrastructure.dll
+E:\CV\SocialCV\socialHR\bin\Nest.dll
+E:\CV\SocialCV\socialHR\bin\Newtonsoft.Json.dll
+E:\CV\SocialCV\socialHR\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.Helpers.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.Mvc.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.Optimization.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.Razor.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.Deployment.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.dll
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.Razor.dll
+E:\CV\SocialCV\socialHR\bin\WebGrease.dll
+E:\CV\SocialCV\socialHR\bin\Elasticsearch.Net.xml
+E:\CV\SocialCV\socialHR\bin\Facebook.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.DependencyCollector.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.Web.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AI.WindowsServer.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.ApplicationInsights.xml
+E:\CV\SocialCV\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\CV\SocialCV\socialHR\bin\Nest.xml
+E:\CV\SocialCV\socialHR\bin\Newtonsoft.Json.xml
+E:\CV\SocialCV\socialHR\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.Helpers.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.Mvc.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.Razor.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.Deployment.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.WebPages.Razor.xml
+E:\CV\SocialCV\socialHR\bin\System.Web.Optimization.xml
+E:\CV\SocialCV\socialHR\bin\Antlr3.Runtime.pdb
+E:\CV\SocialCV\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CV\SocialCV\socialHR\obj\Debug\socialHR.csprojAssemblyReference.cache
+E:\CV\SocialCV\socialHR\obj\Debug\socialHR.csproj.CoreCompileInputs.cache
+E:\CV\SocialCV\socialHR\obj\Debug\socialHR.csproj.CopyComplete
+E:\CV\SocialCV\socialHR\obj\Debug\socialHR.dll
+E:\CV\SocialCV\socialHR\obj\Debug\socialHR.pdb
+G:\socialHR\SocialCV\socialHR\bin\ApplicationInsights.config
+G:\socialHR\SocialCV\socialHR\bin\socialHR.dll.config
+G:\socialHR\SocialCV\socialHR\bin\socialHR.dll
+G:\socialHR\SocialCV\socialHR\bin\socialHR.pdb
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csc.exe
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csc.exe.config
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csc.rsp
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csi.exe
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csi.exe.config
+G:\socialHR\SocialCV\socialHR\bin\roslyn\csi.rsp
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.Managed.Core.targets
+G:\socialHR\SocialCV\socialHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.AppContext.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Collections.Immutable.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Console.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.IO.Compression.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.IO.FileSystem.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.IO.Pipes.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Reflection.Metadata.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.AccessControl.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Claims.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Security.Principal.Windows.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.ValueTuple.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Xml.XmlDocument.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Xml.XPath.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\socialHR\SocialCV\socialHR\bin\roslyn\vbc.exe
+G:\socialHR\SocialCV\socialHR\bin\roslyn\vbc.exe.config
+G:\socialHR\SocialCV\socialHR\bin\roslyn\vbc.rsp
+G:\socialHR\SocialCV\socialHR\bin\roslyn\VBCSCompiler.exe
+G:\socialHR\SocialCV\socialHR\bin\roslyn\VBCSCompiler.exe.config
+G:\socialHR\SocialCV\socialHR\bin\Antlr3.Runtime.dll
+G:\socialHR\SocialCV\socialHR\bin\Elasticsearch.Net.dll
+G:\socialHR\SocialCV\socialHR\bin\Facebook.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.Agent.Intercept.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.DependencyCollector.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.Web.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.WindowsServer.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.ApplicationInsights.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.Web.Infrastructure.dll
+G:\socialHR\SocialCV\socialHR\bin\Nest.dll
+G:\socialHR\SocialCV\socialHR\bin\Newtonsoft.Json.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Diagnostics.DiagnosticSource.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Helpers.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Mvc.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Optimization.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Razor.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.Deployment.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.dll
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.Razor.dll
+G:\socialHR\SocialCV\socialHR\bin\WebGrease.dll
+G:\socialHR\SocialCV\socialHR\bin\Elasticsearch.Net.xml
+G:\socialHR\SocialCV\socialHR\bin\Facebook.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.DependencyCollector.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.PerfCounterCollector.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.Web.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AI.WindowsServer.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.ApplicationInsights.xml
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\socialHR\SocialCV\socialHR\bin\Nest.xml
+G:\socialHR\SocialCV\socialHR\bin\Newtonsoft.Json.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Diagnostics.DiagnosticSource.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Helpers.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Mvc.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Razor.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.Deployment.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.WebPages.Razor.xml
+G:\socialHR\SocialCV\socialHR\bin\System.Web.Optimization.xml
+G:\socialHR\SocialCV\socialHR\bin\Antlr3.Runtime.pdb
+G:\socialHR\SocialCV\socialHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\socialHR\SocialCV\socialHR\obj\Debug\socialHR.csprojAssemblyReference.cache
+G:\socialHR\SocialCV\socialHR\obj\Debug\socialHR.csproj.CoreCompileInputs.cache
+G:\socialHR\SocialCV\socialHR\obj\Debug\socialHR.csproj.CopyComplete
+G:\socialHR\SocialCV\socialHR\obj\Debug\socialHR.dll
+G:\socialHR\SocialCV\socialHR\obj\Debug\socialHR.pdb

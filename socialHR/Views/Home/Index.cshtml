@@ -1,0 +1,69 @@
+﻿﻿@{
+    ViewBag.Title = "Home Page";
+}
+<style>
+
+    .search-main {
+        text-align: center;
+    }
+
+    .search-form {
+        padding-bottom: 100px;
+        padding-top: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .big-banner {
+        text-align: center;
+        height: 500px;
+        width: 100%;
+        background-image: url('../../Assets/img/banner-bg.png');
+    }
+
+    h3 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: red;
+        padding-bottom: 30px;
+        font-style: italic;
+    }
+
+    h1 {
+        color: white;
+    }
+</style>
+<div class="big-banner">
+
+    <div class="search-form">
+        <h1>Cộng đồng <kbd><strong>TUYỂN DỤNG</strong></kbd></h1>
+        <h3>Việc làm toàn thời gian, bán thời gian, thực tập và nhiều cơ hội hấp dẫn</h3>
+        <form action="" method="get">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <span class="ctn-icon"><i class="icons8-tool-symbol"></i></span>
+                        <select class="form-control">
+                            <option value="">Ngành nghề</option>
+                            <option>Development</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <span class="ctn-icon"><i class="icons8-map-pin"></i></span>
+                        <select class="form-control">
+                            <option value="">Tất cả địa điểm</option>
+                            <option>Hà Nội</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <input class="form-control" type="text" name="search" placeholder="Tên công việc, vị trí cần ứng tuyển..." />
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-success form-control"><span class="glyphicon glyphicon-search"></span>Tìm ngay</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
